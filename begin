@@ -1,4 +1,5 @@
 String driverClass = "oracle.jdbc.driver.OracleDriver";
+String driverClass = "oracle.jdbc.driver.OracleDriver";
 rs.close();
 OracleJdbcTest test = new OracleJdbcTest();
 while (rs.next())
