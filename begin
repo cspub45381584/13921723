@@ -1,3 +1,4 @@
+// do the thing you do
 rs.close();
 String driverClass = "oracle.jdbc.driver.OracleDriver";
 String driverClass = "oracle.jdbc.driver.OracleDriver";
